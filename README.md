@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
