@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
