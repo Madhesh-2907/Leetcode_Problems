@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
