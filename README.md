@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
@@ -98,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
