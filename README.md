@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
