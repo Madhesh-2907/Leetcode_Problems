@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
