@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Minimax
 |  |
 | ------- |
