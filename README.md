@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Minimax
 |  |
 | ------- |
@@ -127,4 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
