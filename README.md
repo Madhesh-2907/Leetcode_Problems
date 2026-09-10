@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0704-binary-search) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -160,4 +163,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0147-insertion-sort-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
