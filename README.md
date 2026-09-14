@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -209,4 +213,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
