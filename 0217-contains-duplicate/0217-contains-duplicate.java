@@ -1,15 +1,19 @@
+import java.util.*;
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashSet<Integer> n = new HashSet<>();
-        for(int i=0;i<nums.length;i++)
-        {
-            if(n.contains(nums[i]))
-            {
+
+        HashSet<Integer> set = new HashSet<>();
+
+        for (int x : nums) {
+
+            if (set.contains(x)) {
                 return true;
             }
-            n.add(nums[i]);
-        }
-        return false;
 
+            set.add(x);
+        }
+
+        return false;
     }
 }
