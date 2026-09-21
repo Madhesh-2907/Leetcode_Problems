@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
