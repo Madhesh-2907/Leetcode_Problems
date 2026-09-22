@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2574-left-and-right-sum-differences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
 |  |
 | ------- |
