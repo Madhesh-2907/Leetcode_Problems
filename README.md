@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2574-left-and-right-sum-differences](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0877-stone-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
