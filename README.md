@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0035-search-insert-position) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0242-valid-anagram) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
