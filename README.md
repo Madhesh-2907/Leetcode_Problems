@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
