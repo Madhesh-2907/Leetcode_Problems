@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Madhesh-2907/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
